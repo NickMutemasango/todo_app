@@ -1,0 +1,15 @@
+# Backend
+backend/__pycache__/
+backend/*.py[cod]
+backend/venv/
+backend/.env
+backend/app.log
+backend/todo.db
+backend/todo.db-shm
+backend/todo.db-wal
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
