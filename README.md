@@ -104,7 +104,7 @@ todo-auth-app/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/NickMutemasango/todo-auth-app.git
+git clone https://github.com/NickMutemasango/todo_app.git
 cd todo-auth-app
 ```
 
