@@ -4,12 +4,6 @@ A full-stack To-Do application with a complete JWT authentication system, protec
 
 ---
 
-## 🚀 Live Demo
-
-> Deploy the backend on [Railway](https://railway.app) and the frontend on [Vercel](https://vercel.com) following the setup guide below.
-
----
-
 ## ✨ Features
 
 - 🔐 **Authentication** — Register, login, and logout with JWT tokens
